@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Prosperity 👋
 
-<!--
-**PROSPER9047/PROSPER9047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm learning programming and working toward becoming a skilled software developer and technology entrepreneur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Interests
+
+- Software development
+- Game development
+- Web development
+- Building useful technology
+
+📚 Currently Learning
+
+- C++
+- C#
+- Programming fundamentals and problem-solving
+
+🎯 My Goal
+
+To build useful software, develop real-world projects, and keep improving through practice and collaboration.
+
+---
+
+Learning step by step. Building one project at a time.
