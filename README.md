@@ -21,6 +21,6 @@ I'm learning programming and working toward becoming a skilled software develope
 
 To build useful software, develop real-world projects, and keep improving through practice and collaboration.
 
----
+--- 
 
 Learning step by step. Building one project at a time.
